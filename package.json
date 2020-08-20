@@ -10,7 +10,7 @@
 	"author": "",
 	"license": "MIT",
 	"dependencies": {
-		"bcrypt": "^3.0.6",
+		"bcrypt": "^5.0.0",
 		"body-parser": "^1.13.3",
 		"connect-mongo": "^3.0.0",
 		"express": "^4.17.1",
